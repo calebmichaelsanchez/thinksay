@@ -1,17 +1,25 @@
-Title: Kirby Starterkit
+Title: Thinksay Records
 
 ----
 
-Author: Bastian Allgeier GmbH
+Contact: info@thinksayrecords.com
 
 ----
 
-Description: This is Kirby's Starterkit.
+fblink: https://www.facebook.com/ThinkSayRecords
 
 ----
 
-Keywords: Kirby, CMS, file-based
+iglink: http://instagram.com/ThinkSayRecords/
 
 ----
 
-Copyright: © 2009-(date: Year) (link: http://getkirby.com text: Kirby)
+twlink: https://twitter.com/ThinkSayRecords
+
+----
+
+ytlink: https://www.youtube.com/user/ThinkSayRecords
+
+----
+
+splink: 

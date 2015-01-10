@@ -1,4 +1,8 @@
 .DS_Store
+_
+node_modules
+gulpfile.js
+package.json
 /site/accounts
 /assets/avatars
 /thumbs/*
